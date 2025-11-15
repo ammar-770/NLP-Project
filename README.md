@@ -1,7 +1,3 @@
-Here is a clean, complete **README.md** for your “Intelligent Spam Message Detection” project, based entirely on the document you provided:
-
----
-
 # **Intelligent Spam Message Detection**
 
 *A Comparative Analysis of Machine Learning and Deep Learning Approaches for Text Classification*
@@ -194,12 +190,4 @@ SPAM
 
 A complete list of research papers and sources used is included in the original report, covering foundational work on spam filtering, machine learning, and deep learning.
 
----
 
-If you'd like, I can also:
-✅ Format this as a downloadable README.md file
-✅ Add badges (Python version, license, build status)
-✅ Add installation scripts
-✅ Generate a GitHub-optimized version with sections like "Contributing" and "License"
-
-Just tell me!
